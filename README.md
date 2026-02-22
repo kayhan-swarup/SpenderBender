@@ -8,11 +8,11 @@ An offline-first expense tracking mobile application built with Flutter. Track y
 
 <img width="209" height="437" alt="Screenshot 2026-02-23 at 1 31 42 AM" src="https://github.com/user-attachments/assets/3e82886d-fd02-4d42-8875-dcf8563db381" hspace="20" />
 <img width="212" height="440" alt="Screenshot 2026-02-23 at 1 52 59 AM" src="https://github.com/user-attachments/assets/574ef5f9-796f-4a92-a3b1-0b3099a4f8a6" hspace="20" />
-<img width="214" height="440" alt="Screenshot 2026-02-23 at 2 48 45 AM" src="https://github.com/user-attachments/assets/edbd6a12-181f-42d8-b637-8e1c22a6bc0e" />
+<img width="214" height="440" alt="Screenshot 2026-02-23 at 2 48 45 AM" src="https://github.com/user-attachments/assets/edbd6a12-181f-42d8-b637-8e1c22a6bc0e" hspace="20" />
 <br><br>
 <img width="210" height="438" alt="Screenshot 2026-02-23 at 1 32 55 AM" src="https://github.com/user-attachments/assets/204401c4-7559-451d-95f8-2a2b35069079" hspace="20" />
 <img width="210" height="440" alt="Screenshot 2026-02-23 at 2 49 27 AM" src="https://github.com/user-attachments/assets/b72b5417-5641-4b3d-9c9a-bd1df47195f5" hspace="20" />
-<img width="206" height="439" alt="Screenshot 2026-02-23 at 1 59 36 AM" src="https://github.com/user-attachments/assets/36a8878a-0ae5-4a63-9572-4a67bd6fc8d6" />
+<img width="206" height="439" alt="Screenshot 2026-02-23 at 1 59 36 AM" src="https://github.com/user-attachments/assets/36a8878a-0ae5-4a63-9572-4a67bd6fc8d6" hspace="20" />
 
 
 ### 💰 Account Management

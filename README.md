@@ -4,6 +4,13 @@ An offline-first expense tracking mobile application built with Flutter. Track y
 
 ## Features
 
+### Screenshots
+
+<img width="418" height="874" alt="Screenshot 2026-02-23 at 1 31 42 AM" src="https://github.com/user-attachments/assets/3e82886d-fd02-4d42-8875-dcf8563db381" />
+<img width="424" height="881" alt="Screenshot 2026-02-23 at 1 52 59 AM" src="https://github.com/user-attachments/assets/574ef5f9-796f-4a92-a3b1-0b3099a4f8a6" />
+<img width="421" height="877" alt="Screenshot 2026-02-23 at 1 32 55 AM" src="https://github.com/user-attachments/assets/204401c4-7559-451d-95f8-2a2b35069079" />
+
+
 ### 💰 Account Management
 - **Multiple Account Types**: Create and manage both Cash and Bank accounts
 - **Balance Tracking**: Real-time balance updates across all accounts
